@@ -4,4 +4,10 @@
 
 教程地址：
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1UM411A7z4&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+## bilibili
+
+https://www.bilibili.com/video/BV1UM411A7z4/
+
+## YouTube
+
+https://youtu.be/JNAVR_26ok8
